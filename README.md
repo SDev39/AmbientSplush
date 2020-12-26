@@ -2,7 +2,7 @@
 
 AR Inkshooter(experimental project) app develeped with Unity(version:2019.4).
 
-# How it work
+# How it works
 
 It project transparent meshs using depthmap within compute shader for calculating vertex posiions, and paint ink as a post effect on those meshes.
 
