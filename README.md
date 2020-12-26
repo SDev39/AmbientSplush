@@ -1,4 +1,5 @@
-<img src="https://bitbucket.org/Shinya_Fukuoka/ambientsplut/raw/9f747614f0cfceef3d23ed83b1cee9f8fc996462/RepoAssets/Images/ambientsplat.png" height="500">
+
+![Scheme](https://bitbucket.org/Shinya_Fukuoka/ambientsplut/raw/9f747614f0cfceef3d23ed83b1cee9f8fc996462/RepoAssets/Images/ambientsplat.png)
 
 # Project Description
 
