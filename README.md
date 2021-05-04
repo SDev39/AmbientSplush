@@ -2,6 +2,8 @@
 
 AR Inkshooter(experimental project) app develeped with Unity(version:2019.4).
 
+My source codes are placed in Assets/Scripts and Assets/Shaders folders.
+
 # How it works
 
 It projects transparent meshs using depthmap within compute shader for calculating vertex posiions, and paints ink as post effect on those meshes.
