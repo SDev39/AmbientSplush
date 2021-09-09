@@ -1,6 +1,6 @@
 # TL;DR
 
-AR Inkshooter(experimental project) app develeped with Unity(version:2019.4).
+AR Inkshooter(an experimental project) app develeped with Unity(version:2019.4).
 
 My source codes are placed in Assets/Scripts and Assets/Shaders folders.
 
